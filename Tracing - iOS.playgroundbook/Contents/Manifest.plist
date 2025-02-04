@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Chapters</key>
+	<array>
+		<string>Chapter1.playgroundchapter</string>
+	</array>
+	<key>ContentIdentifier</key>
+	<string>com.jackzzhao.Tracing</string>
+	<key>ContentVersion</key>
+	<string>1.2</string>
+	<key>DeploymentTarget</key>
+	<string>ios14.1</string>
+	<key>DevelopmentRegion</key>
+	<string>en</string>
+	<key>Name</key>
+	<string>My WWDC21 Submission</string>
+	<key>SupportsDarkMode</key>
+	<false/>
+	<key>SwiftVersion</key>
+	<string>5.0</string>
+	<key>UserAutoImportedAuxiliaryModules</key>
+	<array>
+		<string>BookAPI</string>
+	</array>
+	<key>UserModuleMode</key>
+	<string>Full</string>
+	<key>Version</key>
+	<string>7.0</string>
+</dict>
+</plist>
